@@ -21,8 +21,8 @@
 
 - Clone the repository using "git clone "
 
-- Change "Username" and "Password" in both scenarios in feature file
+- Change "Username" and "Password" 
 
 - npm install
 
-- npm run test
+- npm run cy:open
